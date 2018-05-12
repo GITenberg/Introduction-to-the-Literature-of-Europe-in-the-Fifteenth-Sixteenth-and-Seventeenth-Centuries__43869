@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36462
     wikipedia: http://en.wikipedia.org/wiki/Henry_Hallam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43869#Introduction-to-the-Literature-of-Europe-in-the-Fifteenth-Sixteenth-and-Seventeenth-Centuries_
 gutenberg_issued: '2013-10-02'
 gutenberg_type: Text
 identifiers:
